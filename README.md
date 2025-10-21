@@ -2,8 +2,8 @@
 **Expert in Application and Accounting Systems Solutions**
 
 📍 **Riyadh, Saudi Arabia**  
-📧 oooomar123450@gmail.com  
-📱 +966-55-853-9717  
+ oooomar123450@gmail.com  
+ +966-55-853-9717  
 🔗 [LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896)
 
 ---
