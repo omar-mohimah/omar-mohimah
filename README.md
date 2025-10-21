@@ -1,93 +1,94 @@
-# 👨‍💻 [عمر حميد العديني](https://inspiring-daifuku-9b00a2.netlify.app/)
-**خبير حلول التطبيقات والأنظمة المحاسبية**
+#  [Omar Hamid Al-Adini](https://inspiring-daifuku-9b00a2.netlify.app/)
+**Expert in Application and Accounting Systems Solutions**
 
-📍 **الرياض - المملكة العربية السعودية**  
+📍 **Riyadh, Saudi Arabia**  
 📧 oooomar123450@gmail.com  
 📱 +966-55-853-9717  
 🔗 [LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896)
 
 ---
 
-## 🚀 نبذة عني | About Me
+## 🚀 About Me
 
-مطور تطبيقات شغوف بخبرة واسعة في **Flutter** و 
-**React Native** و **Typescript** و**Odoo**، أمتلك القدرة على بناء أنظمة قوية ومرنة للمؤسسات، مع التركيز على الأداء، سهولة الاستخدام، وقابلية التوسع.  
-أتمتع بخبرة عملية في تصميم حلول مخصصة، إدارة المشاريع، وتنظيم فرق العمل، وأسعى دومًا لتقديم قيمة حقيقية عبر الابتكار والانضباط التقني.
+A passionate application developer with extensive experience in **Flutter**, **React Native**, **TypeScript**, and **Odoo**.  
+I specialize in building robust and scalable enterprise systems focused on **performance**, **usability**, and **flexibility**.  
+I have hands-on experience in custom solution design, project management, and team organization — always aiming to deliver real value through innovation and technical discipline.
 
-> ✅ شغف بالحلول الإبداعية وسلاسة تجربة المستخدم  
-> ✅ التزام صارم بالمواعيد والمهام تحت أي ظروف  
-> ✅ تنظيم العمل باستخدام أدوات مثل Obsidian وTrello
-
----
-
-## 🛠️ المهارات التقنية | Tech Stack
-
-- **تطوير التطبيقات:** Flutter, React Native, Next.js *(Android, iOS, Web)*  
-- **أنظمة ERP:** Odoo *(تطوير موديولات، الأتمتة، التقارير)*  
-- **البرمجة الخلفية:** Python, PHP, Node.js, Firebase  
-- **الواجهات الأمامية:** HTML, CSS, JavaScript , Typescript 
-- **قواعد البيانات:** PostgreSQL, MySQL  
+> ✅ Passion for creative solutions and smooth user experience  
+> ✅ Strong commitment to deadlines and quality under any conditions  
+> ✅ Organized workflows using tools such as Obsidian and Trello
 
 ---
 
-## 🎓 التعليم | Education
+## 🛠️ Technical Skills
 
-**بكالوريوس تقنية المعلومات (مرتبة الشرف) – جامعة المدينة العالمية (MEDIU)**  
-🌐 [رابط الموقع الرسمي للجامعة](https://www.mediu.edu.my/ar/)
-
----
-
-## 📲 التطبيقات المنشورة على Google Play
-
-- 🔗 [تطبيق المقايضة - Swap App](https://play.google.com/store/apps/details?id=com.molhimah.swap)  
-- 🔗 [مزادات لايف - Auction Live](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive)  
-- 🔗 [التطبيق الخيري - Charity App](https://play.google.com/store/apps/details?id=com.charity_show)  
+- **App Development:** Flutter, React Native, Next.js *(Android, iOS, Web)*  
+- **ERP Systems:** Odoo *(module development, automation, reporting)*  
+- **Backend Development:** Python, PHP, Node.js, Firebase  
+- **Frontend Development:** HTML, CSS, JavaScript, TypeScript  
+- **Databases:** PostgreSQL, MySQL  
 
 ---
 
-## 💻 تطبيقات مفتوحة المصدر | Open Source Projects
+## 🎓 Education
 
-- 🔧 [تطبيق القهوة (UI/Animation)](https://github.com/oooomar896/coffee_app)  
-- 🔧 [متجر الكهرباء](https://github.com/oooomar896/electrical_store_app)  
-- 🔧 [الآلة الحاسبة](https://github.com/oooomar896/Calculter)  
-- 🔧 [تطبيق اللاعبين](https://github.com/oooomar896/players)  
-- 🔧 [تطبيق الملاحظات](https://github.com/oooomar896/note2)  
+**Bachelor’s Degree in Information Technology (Honors)**  
+*Al-Madinah International University (MEDIU)*  
+🌐 [Official University Website](https://www.mediu.edu.my/ar/)
 
 ---
 
-## 🌐 مواقع إلكترونية ولوحات تحكم
+## 📲 Published Apps on Google Play
 
-- 🌍 [الرؤية العقارية](https://real-estateconsultations.netlify.app) *(منصة للاستشارات العقارية)*  
-- 🌍 [مزادلي - Mzadly.com](https://mzadly.com) *(منصة مزادات إلكترونية)*  
-- 🌍 [مزادلي API](https://github.com/oooomar896/Api_auction) *(واجهة برمجية للمزادات)*  
-- 🌍 [ملهمة العقارية - Molhimah.sa](https://molhimah.sa) *(موقع عقاري احترافي)*  
-- 🖥️ [لوحة تحكم تطبيق المقايضة](https://github.com/oooomar896/-dashboard-swap)  
-- 🖥️ [لوحة تحكم مزاد لايف](https://github.com/oooomar896/-dashboard-auction-live)  
+- 🔗 [Swap App](https://play.google.com/store/apps/details?id=com.molhimah.swap) — *Bartering Platform*  
+- 🔗 [Auction Live](https://play.google.com/store/apps/details?id=com.mulhmah_auctionlive) — *Online Auction Platform*  
+- 🔗 [Charity App](https://play.google.com/store/apps/details?id=com.charity_show) — *Charitable Donations Platform*  
 
 ---
 
-## ⚙️ موديولات Odoo مخصصة
+## 💻 Open Source Projects
 
-- 🏢 [نظام إدارة الأملاك](https://github.com/oooomar896/module-Real-state)  
-  *إدارة العقارات، العقود، المستأجرين*  
-- 🏢 [نظام حجز القاعات](https://github.com/oooomar896/module-room-bookung)  
-  *تقويم وجدولة الاجتماعات*  
-- 👨‍💼 [نظام الموارد البشرية](https://github.com/oooomar896/mangemen_HR)  
-  *إدارة الموظفين، الحضور، الإجازات*  
-- 💰 [نظام المزادات](https://github.com/oooomar896/Website_Auction_odoo)  
-  *ربط موقع المزادات مع Odoo*  
-- 🔄 [نظام المزادات - API](https://github.com/oooomar896/api_get-_or_post_data)  
-  *تكامل REST API مع Odoo*  
-- 🌐 [استخراج بيانات من السيرفر](https://github.com/oooomar896/Module-get-data-from-Db-to-view-code-html/tree/main)  
-  *استخدام SSH لاسترجاع بيانات السيرفر*  
-- 🌐 [استخراج بيانات Odoo Localhost](https://github.com/oooomar896/Module-get-data-from-db-odoo)  
-  *استعلام بيانات قاعدة البيانات المحلية*
+- 🔧 [Coffee App (UI/Animation)](https://github.com/oooomar896/coffee_app)  
+- 🔧 [Electrical Store](https://github.com/oooomar896/electrical_store_app)  
+- 🔧 [Calculator App](https://github.com/oooomar896/Calculter)  
+- 🔧 [Players App](https://github.com/oooomar896/players)  
+- 🔧 [Notes App](https://github.com/oooomar896/note2)  
 
 ---
 
-## 💬 تواصل معي
+## 🌐 Websites & Dashboards
 
-مرحبًا بأي فرصة شراكة، عمل حر، أو تعاون في مشاريع تطوير برمجية 👋  
+- 🌍 [Real Estate Consultations](https://real-estateconsultations.netlify.app) — *Real Estate Consulting Platform*  
+- 🌍 [Mzadly.com](https://mzadly.com) — *Online Auction Platform*  
+- 🌍 [Mzadly API](https://github.com/oooomar896/Api_auction) — *Auction API Backend*  
+- 🌍 [Molhimah.sa](https://molhimah.sa) — *Professional Real Estate Website*  
+- 🖥️ [Swap App Dashboard](https://github.com/oooomar896/-dashboard-swap)  
+- 🖥️ [Auction Live Dashboard](https://github.com/oooomar896/-dashboard-auction-live)  
+
+---
+
+## ⚙️ Custom Odoo Modules
+
+- 🏢 [Real Estate Management System](https://github.com/oooomar896/module-Real-state)  
+  *Manage properties, contracts, and tenants*  
+- 🏢 [Meeting Room Booking System](https://github.com/oooomar896/module-room-bookung)  
+  *Calendar and meeting scheduling*  
+- 👨‍💼 [HR Management System](https://github.com/oooomar896/mangemen_HR)  
+  *Employee management, attendance, leave tracking*  
+- 💰 [Auction System](https://github.com/oooomar896/Website_Auction_odoo)  
+  *Integrates online auctions with Odoo*  
+- 🔄 [Auction API System](https://github.com/oooomar896/api_get-_or_post_data)  
+  *REST API integration with Odoo*  
+- 🌐 [Data Extraction from Server](https://github.com/oooomar896/Module-get-data-from-Db-to-view-code-html/tree/main)  
+  *Retrieve server data using SSH*  
+- 🌐 [Odoo Localhost Data Extraction](https://github.com/oooomar896/Module-get-data-from-db-odoo)  
+  *Query data from local Odoo database*  
+
+---
+
+## 💬 Contact Me
+
+Open to **partnerships**, **freelance projects**, and **collaborations** in software development 👋  
 📧 **oooomar123450@gmail.com**  
 📞 **+966-55-853-9717**  
 🔗 [LinkedIn](https://linkedin.com/in/omar-hamid-288385235) | [GitHub](https://github.com/oooomar896)
